@@ -1,5 +1,149 @@
  [
   {
+    "name": "10",
+    "brand": "HTC",
+    "codename": "pme",
+    "afh_folder_id": "142551",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/htc-10/development/rom-crdroid-v1-9-t3533291"
+  },
+  {
+    "name": "Find7",
+    "brand": "Oppo",
+    "codename": "find7",
+    "afh_folder_id": "44860",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/find-7/find7-development/rom-crdroidv1-8-t3529992"
+  },
+  {
+    "name": "G2",
+    "brand": "LG",
+    "codename": "d800",
+    "afh_folder_id": "43991",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-crdroid-t3120790"
+  },
+  {
+    "name": "G2",
+    "brand": "LG",
+    "codename": "d801",
+    "afh_folder_id": "43992",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-crdroid-t3120790"
+  },
+  {
+    "name": "G2",
+    "brand": "LG",
+    "codename": "d802",
+    "afh_folder_id": "43993",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-crdroid-t3120790"
+  },
+  {
+    "name": "G2",
+    "brand": "LG",
+    "codename": "d803",
+    "afh_folder_id": "43994",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-crdroid-t3120790"
+  },
+  {
+    "name": "G2",
+    "brand": "LG",
+    "codename": "ls980",
+    "afh_folder_id": "43995",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-crdroid-t3120790"
+  },
+  {
+    "name": "G2",
+    "brand": "LG",
+    "codename": "vs980",
+    "afh_folder_id": "43996",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g2/development/rom-crdroid-t3120790"
+  },
+  {
+    "name": "G3",
+    "brand": "LG",
+    "codename": "d850",
+    "afh_folder_id": "43998",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-crdroid-t2955012"
+  },
+  {
+    "name": "G3",
+    "brand": "LG",
+    "codename": "d851",
+    "afh_folder_id": "43999",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-crdroid-t2955012"
+  },
+  {
+    "name": "G3",
+    "brand": "LG",
+    "codename": "d852",
+    "afh_folder_id": "44000",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-crdroid-t2955012"
+  },
+  {
+    "name": "G3",
+    "brand": "LG",
+    "codename": "d855",
+    "afh_folder_id": "44001",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-crdroid-t2955012"
+  },
+  {
+    "name": "G3",
+    "brand": "LG",
+    "codename": "dual-sim",
+    "afh_folder_id": "138362",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-crdroid-t2955012"
+  },
+  {
+    "name": "G3",
+    "brand": "LG",
+    "codename": "f400",
+    "afh_folder_id": "44004",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-crdroid-t2955012"
+  },
+  {
+    "name": "G3",
+    "brand": "LG",
+    "codename": "ls990",
+    "afh_folder_id": "44002",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-crdroid-t2955012"
+  },
+  {
+    "name": "G3",
+    "brand": "LG",
+    "codename": "vs985",
+    "afh_folder_id": "44003",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g3/development/rom-crdroid-t2955012"
+  },
+  {
     "name": "G4",
     "brand": "LG",
     "codename": "h811",
@@ -7,7 +151,7 @@
     "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
     "xda_thread": "https://forum.xda-developers.com/g4/development/rom-crdroidrelease-weekend-t3259786"
-  },   
+  },
   {
     "name": "G4",
     "brand": "LG",
@@ -16,8 +160,26 @@
     "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
     "xda_thread": "https://forum.xda-developers.com/g4/development/rom-crdroidrelease-weekend-t3259786"
-  }, 
-   {
+  },
+  {
+    "name": "G5",
+    "brand": "LG",
+    "codename": "h830",
+    "afh_folder_id": "136372",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g5/development/rom-crdroidv2-3-t3568820"
+  },
+  {
+    "name": "G5",
+    "brand": "LG",
+    "codename": "h850",
+    "afh_folder_id": "136376",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/lg-g5/development/rom-crdroidv2-3-t3568820"
+  },
+  {
     "name": "G6",
     "brand": "LG",
     "codename": "h870",
@@ -25,44 +187,26 @@
     "maintainer_name": "Gabriel Lup (gwolfu)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5195210",
     "xda_thread": "https://forum.xda-developers.com/lg-g6/development/rom-crdroid-t3638621"
-  },   
+  },
   {
-    "name": "Nexus 5X",
-    "brand": "Google",
-    "codename": "bullhead",
-    "afh_folder_id": "43989",
-    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
-    "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/rom-crdroidrelease-weekend-t3254231"
-  }, 
-   {
-    "name": "Nexus 6P",
-    "brand": "Google",
-    "codename": "angler",
-    "afh_folder_id": "48603",
-    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
-    "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-crdroid-t3302267"
-  }, 
-   {
-    "name": "Nexus 7 (2103)",
-    "brand": "Google",
-    "codename": "deb",
-    "afh_folder_id": "144701",
-    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
-    "xda_thread": "https://forum.xda-developers.com/nexus-7-2013/development/rom-crdroidv2-0-t3537690"
-  }, 
-   {
-    "name": "Nexus 7 (2103)",
-    "brand": "Google",
-    "codename": "flo",
-    "afh_folder_id": "144704",
-    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
-    "xda_thread": "https://forum.xda-developers.com/nexus-7-2013/development/rom-crdroidv2-0-t3537690"
-  }, 
-   {
+    "name": "Galaxy S3",
+    "brand": "Samsung",
+    "codename": "i9300",
+    "afh_folder_id": "46150",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/galaxy-s3/development/rom-crdroid-v1-5-t3517684"
+  },
+  {
+    "name": "Galaxy S4",
+    "brand": "Samsung",
+    "codename": "jfltexx",
+    "afh_folder_id": "44419",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/galaxy-s4/i9505-develop/rom-crdroid-t3480917"
+  },
+  {
     "name": "Galaxy S7",
     "brand": "Samsung",
     "codename": "herolte",
@@ -71,7 +215,7 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5195210",
     "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-crdroid-t3590350"
   },
-   {
+  {
     "name": "Galaxy S7 (Edge)",
     "brand": "Samsung",
     "codename": "hero2lte",
@@ -80,7 +224,106 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5195210",
     "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-crdroid-t3591336"
   },
-   {
+  {
+    "name": "Mi3w and Mi4",
+    "brand": "Xiaomi",
+    "codename": "cancro",
+    "afh_folder_id": "159779",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-3/development/rom-crdroidv2-3-t3569751"
+  },
+  {
+    "name": "Moto X Pure",
+    "brand": "Motorola",
+    "codename": "clark",
+    "afh_folder_id": "49760",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/moto-x-style/development/rom-crdroid-android-t3313112"
+  },
+  {
+    "name": "Nexus 5X",
+    "brand": "Google",
+    "codename": "bullhead",
+    "afh_folder_id": "43989",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/rom-crdroidrelease-weekend-t3254231"
+  },
+  {
+    "name": "Nexus 6P",
+    "brand": "Google",
+    "codename": "angler",
+    "afh_folder_id": "48603",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-crdroid-t3302267"
+  },
+  {
+    "name": "Nexus 7 (2103)",
+    "brand": "Google",
+    "codename": "deb",
+    "afh_folder_id": "144701",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/nexus-7-2013/development/rom-crdroidv2-0-t3537690"
+  },
+  {
+    "name": "Nexus 7 (2103)",
+    "brand": "Google",
+    "codename": "flo",
+    "afh_folder_id": "144704",
+    "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
+    "xda_thread": "https://forum.xda-developers.com/nexus-7-2013/development/rom-crdroidv2-0-t3537690"
+  },
+  {
+    "name": "Nexus 4",
+    "brand": "LG",
+    "codename": "mako",
+    "afh_folder_id": "43988",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/nexus-4/development/rom-crdroid-t3121902"
+  },
+  {
+    "name": "Nexus 5",
+    "brand": "LG",
+    "codename": "hammerhead",
+    "afh_folder_id": "133759",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/google-nexus-5/development/rom-crdroid-release-weekend-t3182013"
+  },
+  {
+    "name": "Nexus 5",
+    "brand": "LG",
+    "codename": "hammerheadcaf",
+    "afh_folder_id": "133760",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/google-nexus-5/development/rom-crdroid-release-weekend-t3182013"
+  },
+  {
+    "name": "One",
+    "brand": "Oneplus",
+    "codename": "bacon",
+    "afh_folder_id": "44418",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/oneplus-one/development/rom-crdroidv1-2-t3503847"
+  },
+  {
+    "name": "OnePlus X",
+    "brand": "Oneplus",
+    "codename": "onyx",
+    "afh_folder_id": "54245",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/oneplus-x/development/rom-crdroidv3-0-t3606526"
+  },
+  {
     "name": "One M8",
     "brand": "HTC",
     "codename": "m8",
@@ -88,8 +331,8 @@
     "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
     "xda_thread": "https://forum.xda-developers.com/showthread.php?t=2753248"
-  }, 
-   {
+  },
+  {
     "name": "One M8",
     "brand": "HTC",
     "codename": "m8d",
@@ -97,8 +340,17 @@
     "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
     "xda_thread": "https://forum.xda-developers.com/showthread.php?t=2753248"
-  },   
-   {
+  },
+  {
+    "name": "One M9",
+    "brand": "HTC",
+    "codename": "himaul",
+    "afh_folder_id": "44013",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/one-m9/development/rom-crdroid-release-weekend-t3167440"
+  },
+  {
     "name": "Pixel",
     "brand": "Google",
     "codename": "sailfish",
@@ -106,8 +358,8 @@
     "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
     "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-crdroidv3-2-t3607271"
-  }, 
-   {
+  },
+  {
     "name": "Pixel XL",
     "brand": "Google",
     "codename": "marlin",
@@ -115,8 +367,17 @@
     "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
     "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-crdroidv2-2-t3565215"
-  }, 
-   {
+  },
+  {
+    "name": "Robin",
+    "brand": "Nextbit",
+    "codename": "ether",
+    "afh_folder_id": "140850",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/nextbit-robin/development/rom-crdroidv1-8-t3530009"
+  },
+  {
     "name": "Yureka Black",
     "brand": "YU",
     "codename": "garlic",
@@ -125,7 +386,7 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5942628",
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-6-t3647234"
   },
-   {
+  {
     "name": "Yureka",
     "brand": "YU",
     "codename": "tomato",
