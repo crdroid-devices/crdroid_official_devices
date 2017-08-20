@@ -243,6 +243,33 @@
     "xda_thread": "https://forum.xda-developers.com/moto-x-style/development/rom-crdroid-android-t3313112"
   },
   {
+    "name": "Nexus 4",
+    "brand": "Google",
+    "codename": "mako",
+    "afh_folder_id": "43988",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/nexus-4/development/rom-crdroid-t3121902"
+  },
+  {
+    "name": "Nexus 5",
+    "brand": "Google",
+    "codename": "hammerhead",
+    "afh_folder_id": "133759",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/google-nexus-5/development/rom-crdroid-release-weekend-t3182013"
+  },
+  {
+    "name": "Nexus 5",
+    "brand": "Google",
+    "codename": "hammerheadcaf",
+    "afh_folder_id": "133760",
+    "maintainer_name": "Hildo Boerboom (firebird11)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
+    "xda_thread": "https://forum.xda-developers.com/google-nexus-5/development/rom-crdroid-release-weekend-t3182013"
+  },
+  {
     "name": "Nexus 5X",
     "brand": "Google",
     "codename": "bullhead",
@@ -277,33 +304,6 @@
     "maintainer_name": "Jeremy Vaughan (hokiealumnus)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4936949",
     "xda_thread": "https://forum.xda-developers.com/nexus-7-2013/development/rom-crdroidv2-0-t3537690"
-  },
-  {
-    "name": "Nexus 4",
-    "brand": "LG",
-    "codename": "mako",
-    "afh_folder_id": "43988",
-    "maintainer_name": "Hildo Boerboom (firebird11)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
-    "xda_thread": "https://forum.xda-developers.com/nexus-4/development/rom-crdroid-t3121902"
-  },
-  {
-    "name": "Nexus 5",
-    "brand": "LG",
-    "codename": "hammerhead",
-    "afh_folder_id": "133759",
-    "maintainer_name": "Hildo Boerboom (firebird11)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
-    "xda_thread": "https://forum.xda-developers.com/google-nexus-5/development/rom-crdroid-release-weekend-t3182013"
-  },
-  {
-    "name": "Nexus 5",
-    "brand": "LG",
-    "codename": "hammerheadcaf",
-    "afh_folder_id": "133760",
-    "maintainer_name": "Hildo Boerboom (firebird11)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
-    "xda_thread": "https://forum.xda-developers.com/google-nexus-5/development/rom-crdroid-release-weekend-t3182013"
   },
   {
     "name": "One",
