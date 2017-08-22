@@ -387,6 +387,15 @@
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-6-t3647234"
   },
   {
+    "name": "Redmi 4/4x",
+    "brand": "Xiaomi",
+    "codename": "santoni",
+    "afh_folder_id": "208305",
+    "maintainer_name": "Saikat Halder (saikatrockz)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5942628",
+    "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-7-t3660746"
+  },
+  {
     "name": "Yureka",
     "brand": "YU",
     "codename": "tomato",
