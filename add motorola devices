@@ -1,0 +1,45 @@
+{
+    "name": "<moto G 2015>",
+    "brand": "<motorola>",
+    "codename": "<osprey>",
+    "afh_folder_id": "<46443>",
+    "maintainer_name": "<barthelemy olivier (lohanbarth)>",
+    "maintainer_xda_profile": "<https://forum.xda-developers.com/member.php?u=4554317>",
+    "xda_thread": "<https://forum.xda-developers.com/2015-moto-g/development/rom-crdroid-v3-4-t3624455>"
+  }
+  {
+    "name": "<moto G 2015>",
+    "brand": "<motorola>",
+    "codename": "<merlin>",
+    "afh_folder_id": "<207706>",
+    "maintainer_name": "<barthelemy olivier (lohanbarth)>",
+    "maintainer_xda_profile": "<https://forum.xda-developers.com/member.php?u=4554317>",
+    "xda_thread": "<https://forum.xda-developers.com/2015-moto-g/development/rom-crdroid-v3-4-t3624455>"
+  }
+{
+    "name": "<moto E 2015>",
+    "brand": "<motorola>",
+    "codename": "<surnia>",
+    "afh_folder_id": "<44867>",
+    "maintainer_name": "<barthelemy olivier (lohanbarth)>",
+    "maintainer_xda_profile": "<https://forum.xda-developers.com/member.php?u=4554317>",
+    "xda_thread": "<https://forum.xda-developers.com/moto-e-2015/development/rom-crdroid-v3-4-t3626691>"
+  }
+  {
+    "name": "<moto E 2015>",
+    "brand": "<motorola>",
+    "codename": "<otus>",
+    "afh_folder_id": "<44906>",
+    "maintainer_name": "<barthelemy olivier (lohanbarth)>",
+    "maintainer_xda_profile": "<https://forum.xda-developers.com/member.php?u=4554317>",
+    "xda_thread": "<https://forum.xda-developers.com/moto-e-2015/development/rom-crdroid-v3-4-t3626691>"
+  }
+  {
+    "name": "<moto x 2014>",
+    "brand": "<motorola>",
+    "codename": "<victara>",
+    "afh_folder_id": "<103518>",
+    "maintainer_name": "<barthelemy olivier (lohanbarth)>",
+    "maintainer_xda_profile": "<https://forum.xda-developers.com/member.php?u=4554317>",
+    "xda_thread": "<https://forum.xda-developers.com/moto-x-2014/development/rom-crdroid-v3-4-t3624379>"
+  }
