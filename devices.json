@@ -466,6 +466,15 @@
     "maintainer_name": "Soubhik Khan (Soubhik_sk83)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6121527",
     "xda_thread": "https://forum.xda-developers.com/yureka/orig-development/rom-crdroidv1-2-t3502926"
+  },
+  {
+    "name": "ZenFone 2 Laser",
+    "brand": "ASUS",
+    "codename": "Z00L",
+    "afh_folder_id": "173933",
+    "maintainer_name": "Prakhar Srivastava (prakharluv)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5783424",
+    "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-crdroid-v2-5-t3587378"
   }
   
  ]
