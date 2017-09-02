@@ -485,7 +485,8 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5783424",
     "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-crdroid-v2-5-t3587378"
   },
-  "name": "Redmi 2/Prime",
+  {
+    "name": "Redmi 2/Prime",
     "brand": "Xiaomi",
     "codename": "wt88047",
     "afh_folder_id": "195422",
