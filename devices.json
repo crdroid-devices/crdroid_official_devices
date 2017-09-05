@@ -189,6 +189,15 @@
     "xda_thread": "https://forum.xda-developers.com/lg-g6/development/rom-crdroid-t3638621"
   },
   {
+    "name": "G Pad 8.3",
+    "brand": "LG",
+    "codename": "v500",
+    "afh_folder_id": "179708",
+    "maintainer_name": "Alex Mubinov (beroid)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=3849010",
+    "xda_thread": "https://forum.xda-developers.com/lg-g-pad-83/development/rom-crdroid-android-v1-2-t3499882"
+  },
+  {
     "name": "Galaxy S3",
     "brand": "Samsung",
     "codename": "i9300",
@@ -448,6 +457,15 @@
     "maintainer_name": "Hildo Boerboom (firebird11)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4258086",
     "xda_thread": "https://forum.xda-developers.com/nextbit-robin/development/rom-crdroidv1-8-t3530009"
+  },
+  {
+    "name": "Swift",
+    "brand": "Wileyfox",
+    "codename": "crackling",
+    "afh_folder_id": "179339",
+    "maintainer_name": "Alex Mubinov (beroid)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=3849010",
+    "xda_thread": "https://forum.xda-developers.com/wileyfox-swift/development/rom-crdroid-android-beta-builds-t3481573"
   },
   {
     "name": "Yureka Black",
