@@ -324,6 +324,15 @@
     "xda_thread": "https://forum.xda-developers.com/moto-x-2014/development/rom-crdroid-v3-4-t3624379"
   },
   {
+    "name": "Moto G4 Play",
+    "brand": "Motorola",
+    "codename": "harpia",
+    "afh_folder_id": "161400",
+    "maintainer_name": "Subhrajyoti Sen (SubhrajyotiSen)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6623671",
+    "xda_thread": "https://forum.xda-developers.com/g4-play/development/rom-crdroid-v1-6-t3525141"
+  },
+  {
     "name": "Nexus 4",
     "brand": "Google",
     "codename": "mako",
