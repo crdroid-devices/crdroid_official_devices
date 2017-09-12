@@ -342,6 +342,15 @@
     "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-crdroid-android-v3-2-t3609612"
   },
   {
+    "name": "Moto Z",
+    "brand": "Motorola",
+    "codename": "griffin",
+    "afh_folder_id": "167155",
+    "maintainer_name": "Vache",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=1829889",
+    "xda_thread": "https://forum.xda-developers.com/moto-z/development/rom-crdroid-android-v2-5-t3581657"
+  },
+  {
     "name": "Nexus 4",
     "brand": "Google",
     "codename": "mako",
