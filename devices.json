@@ -333,6 +333,15 @@
     "xda_thread": "https://forum.xda-developers.com/g4-play/development/rom-crdroid-v1-6-t3525141"
   },
   {
+    "name": "Moto G5 Plus",
+    "brand": "Motorola",
+    "codename": "potter",
+    "afh_folder_id": "178578",
+    "maintainer_name": "Vache",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=1829889",
+    "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-crdroid-android-v3-2-t3609612"
+  },
+  {
     "name": "Nexus 4",
     "brand": "Google",
     "codename": "mako",
