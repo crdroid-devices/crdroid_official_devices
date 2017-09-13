@@ -4,6 +4,7 @@
 
 This repo is all about the official devices that are showing up on [crDroid.net](https://crdroid.net/)
 
+On this branch, supported Android version is **8.0**
 In order to add your device, please edit **devices.json** file in following format:
 
 ```bash
