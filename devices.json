@@ -495,6 +495,13 @@
     "xda_thread": "https://forum.xda-developers.com/wileyfox-swift/development/rom-crdroid-android-beta-builds-t3481573"
   },
   {
+    "name": "Storm",
+    "brand": "Wileyfox",
+    "codename": "kipper",
+    "afh_folder_id": "180257",
+    "maintainer_name": "Igor Zaremba (kligli)",
+  },
+  {
     "name": "Yureka Black",
     "brand": "YU",
     "codename": "garlic",
