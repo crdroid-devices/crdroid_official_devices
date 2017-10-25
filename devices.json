@@ -9,6 +9,15 @@
     "xda_thread": "https://forum.xda-developers.com/htc-10/development/rom-crdroid-v1-9-t3533291"
   },
   {
+    "name": "Android One",
+    "brand": "Google",
+    "codename": "seed",
+    "afh_folder_id": "225752",
+    "maintainer_name": "Kerem ERKAPLAN (Furylion) Berkehan SEKBAN (Quicksilver)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7406601",
+    "xda_thread": "https://forum.xda-developers.com/crossdevice-dev/android-one-secondgeneration-crossdevice-original-android-development/rom-crdroidv3-8-1-t3694030"
+  },
+  {
     "name": "Find7",
     "brand": "Oppo",
     "codename": "find7",
