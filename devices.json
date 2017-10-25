@@ -495,6 +495,15 @@
     "xda_thread": "https://forum.xda-developers.com/nextbit-robin/development/rom-crdroidv1-8-t3530009"
   },
   {
+    "name": "Redmi Note 4",
+    "brand": "Xiaomi",
+    "codename": "mido",
+    "afh_folder_id": "140850",
+    "maintainer_name": "Soubhik Khan (soubhik_sk83)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6121527",
+    "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-crdroid-v2-4-t3575525"
+  },
+  {
     "name": "Swift",
     "brand": "Wileyfox",
     "codename": "crackling",
