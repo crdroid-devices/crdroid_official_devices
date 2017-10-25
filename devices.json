@@ -504,6 +504,24 @@
     "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-crdroid-v2-4-t3575525"
   },
   {
+    "name": "Redmi 2/Prime",
+    "brand": "Xiaomi",
+    "codename": "wt88047",
+    "afh_folder_id": "195422",
+    "maintainer_name": "Ayush Dubey (Ayushd70)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5889244",
+    "xda_thread": "https://forum.xda-developers.com/redmi-2/development/rom-crdroid-v3-4-t3627394"
+  },
+  {
+    "name": "Redmi 4/4x",
+    "brand": "Xiaomi",
+    "codename": "santoni",
+    "afh_folder_id": "208305",
+    "maintainer_name": "Saikat Halder (saikatrockz)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5942628",
+    "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-7-t3660746"
+  },
+  {
     "name": "Swift",
     "brand": "Wileyfox",
     "codename": "crackling",
@@ -531,15 +549,6 @@
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-6-t3647234"
   },
   {
-    "name": "Redmi 4/4x",
-    "brand": "Xiaomi",
-    "codename": "santoni",
-    "afh_folder_id": "208305",
-    "maintainer_name": "Saikat Halder (saikatrockz)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5942628",
-    "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-7-t3660746"
-  },
-  {
     "name": "Yureka",
     "brand": "YU",
     "codename": "tomato",
@@ -556,14 +565,5 @@
     "maintainer_name": "Prakhar Srivastava (prakharluv)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5783424",
     "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-crdroid-v2-5-t3587378"
-  },
-  {
-    "name": "Redmi 2/Prime",
-    "brand": "Xiaomi",
-    "codename": "wt88047",
-    "afh_folder_id": "195422",
-    "maintainer_name": "Ayush Dubey (Ayushd70)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5889244",
-    "xda_thread": "https://forum.xda-developers.com/redmi-2/development/rom-crdroid-v3-4-t3627394"
-  }  
+  }
  ]
