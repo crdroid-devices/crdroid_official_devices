@@ -234,6 +234,15 @@
     "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-crdroid-t3591336"
   },
   {
+    "name": "LeEco Le1s",
+    "brand": "LeEco",
+    "codename": "x500/x3",
+    "afh_folder_id": "225252",
+    "maintainer_name": "Venkat VV (VenkatVishalV)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=8404294",
+    "xda_thread": "https://forum.xda-developers.com/leeco-le-1s/development/7-1-2r29-rom-crdroid-android-leeco-le-1s-t3673698"
+  },
+  {
     "name": "Mi3w and Mi4",
     "brand": "Xiaomi",
     "codename": "cancro",
@@ -547,14 +556,5 @@
     "maintainer_name": "Ayush Dubey (Ayushd70)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5889244",
     "xda_thread": "https://forum.xda-developers.com/redmi-2/development/rom-crdroid-v3-4-t3627394"
-  }
-   {
-    "name": "LeEco Le1s",
-    "brand": "LeEco",
-    "codename": "x500/x3",
-    "afh_folder_id": "225252",
-    "maintainer_name": "Venkat VV (VenkatVishalV)",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=8404294",
-    "xda_thread": "https://forum.xda-developers.com/leeco-le-1s/development/7-1-2r29-rom-crdroid-android-leeco-le-1s-t3673698"
-  }
+  }  
  ]
