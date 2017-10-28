@@ -18,4 +18,4 @@ In order to add your device, please edit **devices.json** file in following form
     "xda_thread": "xda url"
   }
 ```
-For any more information, please ask kindly over our Hangouts page
+For any more information, please ask kindly over our Telegram channel
