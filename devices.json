@@ -558,6 +558,15 @@
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-6-t3647234"
   },
   {
+    "name": "Yureka/Yureka +",
+    "brand": "YU",
+    "codename": "tomato",
+    "afh_folder_id": "130177",
+    "maintainer_name": "Saikat Halder (saikatrockz)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5942628",
+    "xda_thread": "https://forum.xda-developers.com/yureka/development/rom-crdroid-v3-8-2-t3696603"
+  },
+  {
     "name": "ZenFone 2 Laser",
     "brand": "ASUS",
     "codename": "Z00L",
