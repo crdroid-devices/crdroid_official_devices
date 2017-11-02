@@ -27,6 +27,15 @@
     "xda_thread": "https://forum.xda-developers.com/find-7/find7-development/rom-crdroidv1-8-t3529992"
   },
   {
+    "name": "Lenovo P2",
+    "brand": "Lenovo",
+    "codename": "kuntao",
+    "afh_folder_id": "225853",
+    "maintainer_name": "Arghya Chanda (arghyac35)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=8037603",
+    "xda_thread": "https://forum.xda-developers.com/lenovo-p2/development/rom-crdroid-android-v3-8-t3689877"
+  },
+  {
     "name": "G2",
     "brand": "LG",
     "codename": "d800",
