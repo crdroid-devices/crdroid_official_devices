@@ -531,6 +531,15 @@
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-7-t3660746"
   },
   {
+    "name": "Redmi 3S",
+    "brand": "Xiaomi",
+    "codename": "land",
+    "afh_folder_id": "227463",
+    "maintainer_name": "Shubham Das (dasshubham762)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=8330494",
+    "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-crdroid-android-v3-8-t3694074"
+  },
+  {
     "name": "Swift",
     "brand": "Wileyfox",
     "codename": "crackling",
