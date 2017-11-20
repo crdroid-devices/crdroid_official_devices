@@ -287,6 +287,15 @@
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4554317",
     "xda_thread": "https://forum.xda-developers.com/moto-x-play/development/rom-crdroid-v3-7-t3666180"
   },
+   {
+    "name": "Moto G4 Plus",
+    "brand": "Motorola",
+    "codename": "athene",
+    "afh_folder_id": "132228",
+    "maintainer_name": "rkschunk",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7581763",
+    "xda_thread": "https://forum.xda-developers.com/moto-g4-plus/development/rom-crdroid-android-t3508749"
+  },
   {
     "name": "Moto G 4G",
     "brand": "Motorola",
@@ -313,6 +322,24 @@
     "maintainer_name": "Barthelemy Olivier (lohanbarth)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=4554317",
     "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-crdroid-v3-4-t3624455"
+  },
+   {
+    "name": "Moto G2 2014 LTE",
+    "brand": "Motorola",
+    "codename": "thea",
+    "afh_folder_id": "103532",
+    "maintainer_name": "rkschunk",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7581763",
+    "xda_thread": "https://forum.xda-developers.com/moto-g-lte/development/rom-crdroidv2-5-t3580473"
+  },
+   {
+    "name": "Moto G2 2014",
+    "brand": "Motorola",
+    "codename": "titan",
+    "afh_folder_id": "103525",
+    "maintainer_name": "rkschunk",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7581763",
+    "xda_thread": "https://forum.xda-developers.com/moto-g-2014/development/rom-crdroidv2-5-t3580558"
   },
   {
     "name": "Moto E",
@@ -376,6 +403,15 @@
     "maintainer_name": "Vache",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=1829889",
     "xda_thread": "https://forum.xda-developers.com/moto-z/development/rom-crdroid-android-v2-5-t3581657"
+  },
+  {
+    "name": "Moto Z Play",
+    "brand": "Motorola",
+    "codename": "addison",
+    "afh_folder_id": "161415",
+    "maintainer_name": "rkschunk",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7581763",
+    "xda_thread": "https://forum.xda-developers.com/moto-z-play/development/rom-crdroidv2-5-t3581632"
   },
   {
     "name": "Nexus 4",
