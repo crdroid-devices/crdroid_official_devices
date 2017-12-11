@@ -576,6 +576,15 @@
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-7-t3660746"
   },
   {
+    "name": "Redmi 4A",
+    "brand": "Xiaomi",
+    "codename": "rolex",
+    "afh_folder_id": "234000",
+    "maintainer_name": "Murali Dharan (muralidharan)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6205736",
+    "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-8-3-redmi-4a-t3716884"
+  },
+  {
     "name": "Redmi 3S",
     "brand": "Xiaomi",
     "codename": "land",
