@@ -36,6 +36,15 @@
     "xda_thread": "https://forum.xda-developers.com/lenovo-p2/development/rom-crdroid-android-v3-8-t3689877"
   },
   {
+    "name": "Lenovo K6/Power",
+    "brand": "Lenovo",
+    "codename": "karate",
+    "afh_folder_id": "222241",
+    "maintainer_name": "Sivanesan (EthanSiva)",
+    "mainatainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7774317",
+    "xda_thread": "https://forum.xda-developers.com/k6-power/development/rom-lenovo-k6-power-t3689969"
+  },
+  {
     "name": "G2",
     "brand": "LG",
     "codename": "d800",
