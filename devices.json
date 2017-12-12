@@ -45,6 +45,15 @@
     "xda_thread": "https://forum.xda-developers.com/k6-power/development/rom-lenovo-k6-power-t3689969"
   },
   {
+    "name": "Lenovo K6 Note/Plus",
+    "brand": "Lenovo",
+    "codename": "karatep",
+    "afh_folder_id": "234208",
+    "maintainer_name": "Sivanesan (EthanSiva)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7774317",
+    "xda_thread": "https://forum.xda-developers.com/k6-power/development/rom-lenovo-k6-power-t3689969"
+  },
+  {
     "name": "G2",
     "brand": "LG",
     "codename": "d800",
