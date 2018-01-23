@@ -270,6 +270,15 @@
     "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-crdroid-t3591336"
   },
   {
+    "name": "Honor 5x",
+    "brand": "Huawei",
+    "codename": "kiwi",
+    "afh_folder_id": "159969",
+    "maintainer_name": "coldhans",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=7660770",
+    "xda_thread": "https://forum.xda-developers.com/honor-5x/development/rom-crdroidv2-0-t3538624"
+  },
+  {
     "name": "LeEco Le1s",
     "brand": "LeEco",
     "codename": "x500/x3",
