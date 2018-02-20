@@ -612,6 +612,15 @@
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-8-3-redmi-4a-t3716884"
   },
   {
+    "name": "Redmi 5A",
+    "brand": "Xiaomi",
+    "codename": "riva",
+    "afh_folder_id": "247597",
+    "maintainer_name": "Murali Dharan (muralidharan)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6205736",
+    "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-8-5-redmi-5a-t3752066"
+  },
+  {
     "name": "Redmi 3S",
     "brand": "Xiaomi",
     "codename": "land",
