@@ -621,6 +621,15 @@
     "xda_thread": "https://forum.xda-developers.com/android/development/rom-crdroid-v3-8-5-redmi-5a-t3752066"
   },
   {
+    "name": "Mi A1",
+    "brand": "Xiaomi",
+    "codename": "tissot",
+    "afh_folder_id": "252127",
+    "maintainer_name": "Arunkumar (arunassain)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6768248",
+    "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-crdroid-v3-8-5-t3753567"
+  },
+  {
     "name": "Redmi 3S",
     "brand": "Xiaomi",
     "codename": "land",
