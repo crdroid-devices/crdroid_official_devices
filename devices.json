@@ -585,6 +585,15 @@
     "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-crdroid-v2-4-t3575525"
   },
   {
+    "name": "Mi A1",
+    "brand": "Xiaomi",
+    "codename": "tissot",
+    "afh_folder_id": "252127",
+    "maintainer_name": "Arunkumar (arunassain)",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6768248",
+    "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-crdroid-v3-8-5-t3753567"
+  },
+  {
     "name": "Redmi 2/Prime",
     "brand": "Xiaomi",
     "codename": "wt88047",
