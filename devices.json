@@ -682,5 +682,15 @@
     "maintainer_name": "Prakhar Srivastava (prakharluv)",
     "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=5783424",
     "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-crdroid-v2-5-t3587378"
+  },
+  {
+    "name": "Z2 Plus",
+    "brand": "Lenovo",
+    "codename": "z2_plus",
+    "afh_folder_id": "197852",
+    "maintainer_name": "Subhrajyoti Sen",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6623671",
+    "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-crdroid-v4-0-t3731150"
   }
+  
  ]
