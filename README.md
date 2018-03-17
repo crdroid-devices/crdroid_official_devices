@@ -1,5 +1,7 @@
 # crDroid Official Devices
 
+**This is not deprecated**
+
 ### Description ###
 
 This repo is all about the official devices that are showing up on [crDroid.net](https://crdroid.net/)
